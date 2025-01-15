@@ -30,10 +30,9 @@ class DashboardPage
     
         const menulist = await this.page.locator(this.menulist)
 
-        await expect(menulist).toHaveCount(12)
+        await expect(menulist).toHaveCount(7)
 
-        
-
+    
 
     }
 

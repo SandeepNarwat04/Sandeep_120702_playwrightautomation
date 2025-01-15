@@ -7,8 +7,8 @@ class LoginPage
     {
 
         this.page=page
-        this.username="input[placeholder='username']"
-        this.password="input[placeholder='password']"
+        this.username="input[placeholder='Username']"
+        this.password="input[placeholder='Password']"
         this.loginbutton="button[type='submit']"
         this.errormessage=".oxd-text.oxd-text--p.oxd-alert-content-text"
 
