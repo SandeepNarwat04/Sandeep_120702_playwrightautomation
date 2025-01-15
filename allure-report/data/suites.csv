@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9772","Perform a valid login","chromium","Wed Jan 15 22:12:03 IST 2025","passed","Wed Jan 15 22:12:12 IST 2025","","loginapplication.spec.js","",""
+"","9533","Handle invalid login.","chromium","Wed Jan 15 22:12:06 IST 2025","passed","Wed Jan 15 22:12:16 IST 2025","","loginapplication.spec.js","",""
+"","13052","Validate the options in the side drawr","chromium","Wed Jan 15 22:11:45 IST 2025","passed","Wed Jan 15 22:11:58 IST 2025","","dashboard.spec.js","",""
+"","6879","Verify that the login page loads successfully.","chromium","Wed Jan 15 22:11:59 IST 2025","passed","Wed Jan 15 22:12:06 IST 2025","","loginapplication.spec.js","",""
+"","16582","Verify logout functionality.","chromium","Wed Jan 15 22:11:45 IST 2025","passed","Wed Jan 15 22:12:02 IST 2025","","dashboard.spec.js","",""
